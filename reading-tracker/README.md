@@ -133,8 +133,12 @@ reading-tracker/
 
 ## Accesso all'Applicazione
 
-- Apri il browser e vai su http://localhost/reading-tracker/
-- Registra un nuovo account o accedi con credenziali esistenti
+Apri il browser e vai su http://localhost/reading-tracker/
+Opzione 1: Registra un nuovo account cliccando su "Registrati"
+Opzione 2: Usa le credenziali di test predefinite:
+
+Username: user
+Password: 123456
 
 ## Aggiornamento del Progetto
 
