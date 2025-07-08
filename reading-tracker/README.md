@@ -36,7 +36,7 @@
    ```
 3. Clona la repository:
    ```bash
-   git clone https://github.com/[USERNAME]/[REPOSITORY-NAME].git reading-tracker
+   git clone https://github.com/AlbertoDiRonza/reading-tracker.git reading-tracker
    ```
 4. Entra nella cartella del progetto:
    ```bash
